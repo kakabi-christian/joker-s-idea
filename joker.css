@@ -1,0 +1,242 @@
+.section1
+{
+    font-weight: 25px;
+}
+.body
+{
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.square
+{
+    height:  593px;
+    background-color: white;
+    width: 500px;
+    border-radius: 10px;
+}
+body
+{
+    background-color: whitesmoke;
+}
+.header
+{
+    display: flex;
+    gap: 15px;
+}
+.phone
+{
+    color: gray;
+    margin-top: 55%;
+}
+.iphonebody
+{
+    background-color:blanchedalmond;
+    width: 250px;
+    border-radius: 15px;
+    height: 632px;
+    margin-top: 10%;
+    padding-top: 15px;
+    padding-left: 5px;
+    
+}
+.carre img
+{
+height: 40px;
+border-radius: 100%;
+}
+.pers img
+{
+    height: 40px;
+    border-radius: 100%;
+}
+.body2
+{
+    display:  flex;
+    gap: 160px;
+}
+.product
+{
+    padding-left: 17px;
+    font-weight: 25px;
+    color:  black;
+}
+
+.rectangle img
+{
+    height: 20px;
+    padding-left: 20px;
+}
+.sentence
+{
+    color: gray;
+}
+.gaming,.new,.pop
+{
+    background-color: rgb(216, 33, 64);
+    color:white;
+    border-radius: 15px;
+    width: 77px;
+    text-align: center;
+}
+.head
+{
+    display:  flex;
+    gap: 5px;
+    padding-left: 5px;
+
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+.pic1 img 
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+.kratos
+{
+    padding-left: 10px;
+    display: flex;
+    gap: 10px;
+    padding-right: 10px;
+}
+.pic2 img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+.play,.play1,.san,.name
+{
+    font-size: 10px;
+    color: gray;
+}
+.prix,.prix1
+
+{
+font-size: 13px;
+color: black;
+
+}
+.element,.elem,.photo
+{
+    display:flex;
+    gap: 15px;
+    margin-top: 2%;
+}
+.plus img, .plus1 img
+{
+    height: 40px;
+    border-radius: 100%;
+    width: 25px;
+}
+.sangoku img
+{
+    width: 110px;
+    height: 130px;
+    border-radius: 5px;
+}
+.sangoku
+{
+    padding-left: 5px;
+}
+.plus3 img,.plus4 img
+{
+    height: 40px;
+    border-radius: 100%;
+    width: 25px
+}
+.price
+
+{
+    font-size: 12px;
+    color:  black;
+}
+.rezo
+{
+    display: flex;
+    gap: 15px;
+}
+.image img
+{
+    width: 110px;
+    height: 130px;
+    border-radius: 5px
+}
+.partie2
+{
+    display:  flex;
+    gap: 10px;
+}
+.image
+{
+    margin-top: 4%;
+}
+.prix
+{
+    font-size: 10px;
+}
+.cost
+{
+    font-size: 12px;
+    color: black;
+}
+a:hover
+{
+    background: black;
+    color: gold;
+}
+ .pop:hover
+{
+  background-color: black;
+}
+.gaming:hover
+{
+    background-color: black;
+}
+.new:hover
+{
+    background-color: black;
+}
+.volley
+{
+    display: flex;
+    gap: 15px;
+}
+.ending
+{
+    display: flex;
+    gap: 5px;
+}
+.home img, .achat img,.client img
+{
+    height: 50px;
+    width: 70px;
+    border-radius: 100%;
+ 
+}
+.home img:hover
+{
+  transform:  translateY(-10px);
+}
+.achat img:hover
+{
+    transform: translateY(-10px);
+}
+.client img:hover
+{
+    transform:  translateY( -10px);
+}
+input
+{
+    width: 235px;
+    height:20px;
+    border-radius: 10px;
+}
+.lili
+{
+    padding-left: 8px;
+}
